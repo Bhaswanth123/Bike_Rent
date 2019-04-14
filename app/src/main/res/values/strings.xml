@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bike_Rent</string>
+    <string name="title_activity_login_form">Login_form</string>
+</resources>
