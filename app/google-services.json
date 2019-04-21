@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "822741080460",
-    "firebase_url": "https://bike-database.firebaseio.com",
-    "project_id": "bike-database",
-    "storage_bucket": "bike-database.appspot.com"
+    "project_number": "721561679224",
+    "firebase_url": "https://bikes-e2379.firebaseio.com",
+    "project_id": "bikes-e2379",
+    "storage_bucket": "bikes-e2379.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:822741080460:android:242258af85d9824c",
+        "mobilesdk_app_id": "1:721561679224:android:242258af85d9824c",
         "android_client_info": {
           "package_name": "com.example.bike_rent"
         }
       },
       "oauth_client": [
         {
-          "client_id": "822741080460-c01mk4ns9dbdcbsb5l5no5r08tbh1ne8.apps.googleusercontent.com",
+          "client_id": "721561679224-np51iqc2n8516m4av8g1jquku3f3a8de.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC-wv-QuYUrNdlwi40jEqq1YtKk0SgzuTY"
+          "current_key": "AIzaSyCnQqcRWHCShiDoE7G_rLk5QX0ZhPZPUmo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "822741080460-c01mk4ns9dbdcbsb5l5no5r08tbh1ne8.apps.googleusercontent.com",
+              "client_id": "721561679224-np51iqc2n8516m4av8g1jquku3f3a8de.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
